@@ -1,0 +1,15 @@
+{
+  "name": "01-bases-node",
+  "version": "1.0.0",
+  "description": " proyecto de consola que realiza operaciones de multiplicacion ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doang M. Cespedes L.",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
